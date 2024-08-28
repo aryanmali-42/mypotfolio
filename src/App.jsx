@@ -1,9 +1,10 @@
 import React from "react";
+import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Potfolio from "./components/Potfolio";
 import Experience from "./components/Experience";
-import Footer from "./components/Footer";
+
 import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
 import Home from "./components/home";
