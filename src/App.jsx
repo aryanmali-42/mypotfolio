@@ -4,10 +4,9 @@ import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Potfolio from "./components/Potfolio";
 import Experience from "./components/Experience";
-
 import Contact from "./components/Contact";
+import Home from "./components/Home";
 import { Toaster } from "react-hot-toast";
-import Home from "./components/home";
 
 const App = () => {
 	return (
