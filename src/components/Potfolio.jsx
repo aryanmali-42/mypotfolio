@@ -1,11 +1,11 @@
 import React from "react";
 import { ImOpt } from "react-icons/im";
-import java from "../../public/java.png";
-import python from "../../public/python.webp";
-import mongoDB from "../../public/mongodb.jpg";
-import express from "../../public/express.png";
-import nodejs from "../../public/node.png";
-import react from "../../public/reactjs.png";
+import java from "../../public1/java.png";
+import python from "../../public1/python.webp";
+import mongoDB from "../../public1/mongodb.jpg";
+import express from "../../public1/express.png";
+import nodejs from "../../public1/node.png";
+import react from "../../public1/reactjs.png";
 const Potfolio = () => {
 	const cardItem = [
 		{

@@ -1,10 +1,10 @@
 import React from "react";
 import { ImOpt } from "react-icons/im";
-import html from "../../public/html.png";
-import css from "../../public/css.jpg";
-import java from "../../public/java.png";
-import javascript from "../../public/javascript.png";
-import oracle from "../../public/oracle.png";
+import html from "../../public1/html.png";
+import css from "../../public1/css.jpg";
+import java from "../../public1/java.png";
+import javascript from "../../public1/javascript.png";
+import oracle from "../../public1/oracle.png";
 const Experience = () => {
 	const cardItem = [
 		{

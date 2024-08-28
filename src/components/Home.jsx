@@ -8,7 +8,7 @@ import { SiExpress } from "react-icons/si";
 import { FaReact } from "react-icons/fa";
 import { FaNodeJs } from "react-icons/fa";
 import { ReactTyped } from "react-typed";
-import pic from "../../public/codeimg.jpg";
+import pic from "../../public1/codeimg.jpg";
 
 const Home = () => {
 	return (

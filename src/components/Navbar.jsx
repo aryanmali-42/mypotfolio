@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import pic from "../../public/codeimg.jpg";
+import pic from "../../public1/codeimg.jpg";
 import { CiMenuFries } from "react-icons/ci";
 import { IoMdClose } from "react-icons/io";
 import { Link } from "react-scroll";
